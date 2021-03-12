@@ -1,5 +1,5 @@
 # RainBow
-If you're lucky you have a song in my live
+If you're lucky you have a song in my life
 
 # Apple Developer Academy
 Week 2 - Challenge Hello, me 
