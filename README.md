@@ -1,5 +1,7 @@
-# Rainbow
-Apple Developer Academy
+# RainBow
+If you're lucky you have a song in my live
+
+# Apple Developer Academy
 Week 2 - Challenge Hello, me 
 
 # Songs
