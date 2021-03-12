@@ -2,7 +2,7 @@
 Apple Developer Academy
 Week 2 - Challenge Hello, me 
 
-#Songs
+# Songs
 
 1. Little me - Little Mix
 2. Let Her Go - Passenger
@@ -16,7 +16,7 @@ Week 2 - Challenge Hello, me
 10. Treat You Better - Sam Tsui, Casey Breves, KHS COVER
 11. Break My Heart Again - FINNEAS
 
-#Images
+# Images
 
 1. https://br.pinterest.com/pin/697354323544168504/
 2. https://www.seekpng.com/ipng/u2w7e6y3r5r5q8y3_the-fault-in-our-stars-cloud-nerdfighteria-deviantart/
